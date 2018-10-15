@@ -28,3 +28,7 @@ function destructivelyPrependKitten(name) {
 function appendKitten(name) {
   return kittens.concat(name)
 } //ok
+
+function appendKitten(name) {
+  return kittens.concat(name)
+}
